@@ -1,4 +1,4 @@
 good morning all
 changed file in remote repo
 changing file in local to create confict and reslove it
-changing file to check diff
+changing file to check diff local
