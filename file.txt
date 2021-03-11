@@ -1,2 +1,3 @@
 good morning all
 changed file in remote repo
+changing file in remote to create confict and reslove it
